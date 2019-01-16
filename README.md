@@ -1,5 +1,3 @@
-#askhsh 4
-
 def zero():
 	x=0
 	return x
@@ -53,7 +51,6 @@ def minus(x,y):
 def times(x,y):
 	#Πολλαπλασιασμος των αριθμων
 	z=x*y
-	
 	return z
 	
 a = input("Dose enan arithmo me olografos:	")
